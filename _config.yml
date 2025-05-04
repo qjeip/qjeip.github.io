@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: jei fly high
+email: iqjeipi@gmail.com
+author: qjeip
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -160,11 +160,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+  defaults:
+  home:
+  heading: "jei fliy high"
+  subheading: "art and wonderfull world in my life"
+  banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -238,6 +238,8 @@ yat:
 #   label: "utterances comment"
 #   theme: "github-light"
 #   follow_site_theme: true
+
+# Page default value
 
 # Build settings
 # highlighter: none
