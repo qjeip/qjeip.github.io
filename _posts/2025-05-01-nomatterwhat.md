@@ -1,13 +1,16 @@
 ---
 layout: post
-title: No matter what(lyrics)
-description: >
-  영국 그룹 보이존(Boyzone)의 노래. 짐 스타이먼 작사, 앤드루 로이드 웨버의 곡이다.
-categories: art
+title: No matter what
+subtitle: 영국 그룹 보이존(Boyzone)의 노래. 작사/ 짐 스타이먼 작사, 작곡/ 앤드루 로이드 웨버
+excerpt_image: /assets/images/boyzone.png
+author: jei F.H
+categories: Music
+tags: popsong lyrics boyzone
+top: 3
 sitemap: false
 ---
-![boyzone](/assets/img/blog/boyzone.png)
 
+![boyzone](/assets/images/boyzone.png)
 ## No matter what
 
 No matter what they tell us  
